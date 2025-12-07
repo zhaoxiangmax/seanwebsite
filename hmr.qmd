@@ -50,7 +50,7 @@ Contact: Sean Zhang: <sean.zhang@wisehealthhmr.com>
 
 ::: {.g-col-12 .g-col-md-5}
 
-![wisehealthhmr](/files/images/wisehealthlogo.jpg)
+![](/files/images/wisehealthlogowhite.jpg)
 
 :::
 
