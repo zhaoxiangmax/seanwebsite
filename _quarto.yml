@@ -13,7 +13,7 @@ website:
     left:
       - text: About
         href: about.qmd
-      - text: Home Mediciness Reviews
+      - text: Home Medicines Reviews
         href: hmr.qmd
       - text: Contact
         href: contact.qmd
